@@ -25,7 +25,7 @@ function Header() {
           <li> Carrer </li>
         </ul>
 
-        <ul className={`w-full h-screen md:hidden text-white gap-5 fixed bg-black top-[63px] 
+        <ul className={`duration-300 w-full h-screen md:hidden text-white gap-5 fixed bg-black top-[63px] 
           ${toggle ? 'left-[0]': 'left-[-100%]'}`}>
           <li className='p-5'> Home </li>
           <li className='p-5'> About </li>
