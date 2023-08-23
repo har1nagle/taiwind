@@ -1,8 +1,6 @@
 
-![Preview](https://github.com/har1nagle/taiwind/assets/123434008/87106193-8c6e-4d45-99ce-8ecb8a16a540)
 
-
-[Videos](https://github.com/har1nagle/taiwind/assets/123434008/6c50f042-cb56-429c-ae60-58b4bb1827fb)
+![Videos](https://github.com/har1nagle/taiwind/assets/123434008/6c50f042-cb56-429c-ae60-58b4bb1827fb)
 
 
 
